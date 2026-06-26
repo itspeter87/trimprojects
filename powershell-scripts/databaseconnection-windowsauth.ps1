@@ -4,7 +4,6 @@ Add-Type -Path "C:\Program Files\Micro Focus\Content Manager\TRIM.SDK.dll"
 # Variables such as my TRIM Dataset details
 $wgs = "local"
 $dbId = "45"
-$rtName = "Document"
 
 # Connect to the Database
 
