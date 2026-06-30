@@ -1,9 +1,0 @@
-C:\github\trimprojects\event-addins\audio-to-text\audio-to-text\bin\Debug\audio-to-text.dll
-C:\github\trimprojects\event-addins\audio-to-text\audio-to-text\bin\Debug\audio-to-text.pdb
-C:\github\trimprojects\event-addins\audio-to-text\audio-to-text\bin\Debug\TRIM.SDK.dll
-C:\github\trimprojects\event-addins\audio-to-text\audio-to-text\bin\Debug\TRIM.SDK.xml
-C:\github\trimprojects\event-addins\audio-to-text\audio-to-text\obj\Debug\audio-to-text.csproj.AssemblyReference.cache
-C:\github\trimprojects\event-addins\audio-to-text\audio-to-text\obj\Debug\audio-to-text.csproj.CoreCompileInputs.cache
-C:\github\trimprojects\event-addins\audio-to-text\audio-to-text\obj\Debug\audio-to.1317C295.Up2Date
-C:\github\trimprojects\event-addins\audio-to-text\audio-to-text\obj\Debug\audio-to-text.dll
-C:\github\trimprojects\event-addins\audio-to-text\audio-to-text\obj\Debug\audio-to-text.pdb
