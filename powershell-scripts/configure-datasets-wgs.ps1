@@ -25,5 +25,3 @@ $trimConfig.Save()
 
 # Deploy your configuration
 $trimConfig.Deploy()
-
-
