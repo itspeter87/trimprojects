@@ -76,7 +76,8 @@ Write-Host "Saving results to: $outputFile"
 # ============================
 
 $locSearch = New-Object TRIM.SDK.TrimMainObjectSearch($db, [TRIM.SDK.BaseObjectTypes]::Location)
-$locSearch.SetSearchString("saved:18")
+# Adjust the SearchString as needed. Example: "internal and active and type:person", "internal and ValidLogin", "saved:[the uri of the saved search you made]"
+$locSearch.SetSearchString("ValidLogin")
 foreach ($loc in $locSearch)
 {
     $locationLabel = "$($loc.FormattedName) ($($loc.Uri))"
